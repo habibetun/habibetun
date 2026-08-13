@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/39/2c/f4/392cf408ba0887f854a028a252428fcb.jpg" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/1200x/bb/18/b9/bb18b9e0c29b90ea8298a72ffd376752.jpg" alt="Typing SVG" />
 
 ### Full-Stack Developer • Next.js Specialist • Database Designer
 
