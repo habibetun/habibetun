@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Habib+Behdarvandi" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/1200x/f2/9f/7a/f29f7af6b35e675f2902acd33c7c6e17.jpg" alt="Typing SVG" />
 
   **Full-Stack Developer**
   
