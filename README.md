@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/f2/9f/7a/f29f7af6b35e675f2902acd33c7c6e17.jpg" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/1200x/95/25/7c/95257c36fcb6284c11c05c3f35926157.jpg" alt="Typing SVG" />
 
   **Full-Stack Developer**
   
