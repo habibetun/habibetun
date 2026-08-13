@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Habib+Behdarvandi" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Habib+Behdarvandi](https://i.pinimg.com/1200x/39/2c/f4/392cf408ba0887f854a028a252428fcb.jpg)" alt="Typing SVG" />
 
 ### Full-Stack Developer • Next.js Specialist • Database Designer
 
@@ -103,49 +103,4 @@ My goal is simple: **build reliable software, understand the systems behind it, 
 <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Backend_Engineering-111827?style=for-the-badge" />
 
-</div>
-
----
-
-## Featured Projects
-
-### Sakhteman Yar
-
-A building management and service marketplace platform designed around building managers, residents, technicians, services, maintenance, bookings, and permissions.
-
-**Stack:** Next.js • TypeScript • Prisma • MySQL • REST API
-
-### Taaminchi
-
-A marketplace platform focused on connecting users with products and services through a structured web application.
-
-**Stack:** Next.js • TypeScript • Database Architecture • REST APIs
-
-### VisionCheat
-
-A web platform and application ecosystem built around gaming-related services and digital products.
-
-**Stack:** Next.js • TypeScript • Prisma • MySQL
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HabibDev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=HabibDev&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E" />
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HabibDev&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HabibDev&style=for-the-badge&color=2563EB" />
 </div>
