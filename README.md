@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Habib+Behdarvandi](https://i.pinimg.com/1200x/39/2c/f4/392cf408ba0887f854a028a252428fcb.jpg)" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/1200x/39/2c/f4/392cf408ba0887f854a028a252428fcb.jpg" alt="Typing SVG" />
 
 ### Full-Stack Developer • Next.js Specialist • Database Designer
 
